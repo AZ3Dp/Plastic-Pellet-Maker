@@ -6,14 +6,16 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Plastic Pellet Maker**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/168).
-
-
 ## 10/5/2025 - Planning Phase  
 
 ![IMG_0373.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjQ3LCJwdXIiOiJibG9iX2lkIn19--ce71cb4cd23e579b96b823e82d1cd997f1018f76/IMG_0373.jpeg)
 Worked on planning out the plastic extrusion project. Looking to use as many off-the-shelf parts as possible (so cost isn’t extremely expensive).
 Scoping out BOM. Took a look at potential parts.
 This is the boring phase of projects because there isn’t really anything to show.  
+
+## 10/20/2025 - The best way isn't the most elegant, but the way that works  
+
+![Screenshot 2025-10-20 at 12.41.18 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--54d91a854ea6cbca3a6ca999185ab038b7882f2c/Screenshot%202025-10-20%20at%2012.41.18%E2%80%AFPM.png)
+![Screenshot 2025-10-20 at 12.43.23 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f488e6784f506ccfe4ac8b32eb7e793dd4a3515/Screenshot%202025-10-20%20at%2012.43.23%E2%80%AFPM.png)
+Currently, I'm still researching and scoping out parts and how things will generally work together. After a very long headache and tons of hair pulling, it finally occurred to me that I was overthinking the problem. Essentially, I would need to fix heating elements to the plastic extruder's barrel, which is commonly achieved using band-heaters. Unfortunately, those don't come in sizes I need, and they run on 220V. I was planning on mainly using a 3D printer's electronics for this project, so a heater cartridge was my way to go. And how do you mount a heater cartridge onto a circular object? I didn't have any metal clamps, and I didn't want to have to machine a custom part, so I felt lost. Then I realized I could simply use high-temp aluminum tape to fix the heater cartridges onto the metal barrel.  
 
