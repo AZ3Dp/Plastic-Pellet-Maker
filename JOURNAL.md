@@ -19,3 +19,10 @@ This is the boring phase of projects because there isn’t really anything to sh
 ![Screenshot 2025-10-20 at 12.43.23 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--0f488e6784f506ccfe4ac8b32eb7e793dd4a3515/Screenshot%202025-10-20%20at%2012.43.23%E2%80%AFPM.png)
 Currently, I'm still researching and scoping out parts and how things will generally work together. After a very long headache and tons of hair pulling, it finally occurred to me that I was overthinking the problem. Essentially, I would need to fix heating elements to the plastic extruder's barrel, which is commonly achieved using band-heaters. Unfortunately, those don't come in sizes I need, and they run on 220V. I was planning on mainly using a 3D printer's electronics for this project, so a heater cartridge was my way to go. And how do you mount a heater cartridge onto a circular object? I didn't have any metal clamps, and I didn't want to have to machine a custom part, so I felt lost. Then I realized I could simply use high-temp aluminum tape to fix the heater cartridges onto the metal barrel.  
 
+## 10/22/2025 - More Brainstorm and Inspiration  
+
+![Screenshot 2025-10-22 at 10.54.56 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--50514b5b8008fb3c291e771d0d4ec0529232f8b9/Screenshot%202025-10-22%20at%2010.54.56%E2%80%AFAM.png)
+![Screenshot 2025-10-22 at 11.07.25 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a4ed90fd66d0114d6f5559051dcf062cc07d5606/Screenshot%202025-10-22%20at%2011.07.25%E2%80%AFAM.png)
+
+Currently doing a lot of research on existing designs and how others got it to work. My goal is to simply make my pellet extruder work, and then improve it from there. A lot of 3D printed parts will be used. It's quite fun to see what others have done and try to incorporate some of their genius design choices into my own work!  
+
